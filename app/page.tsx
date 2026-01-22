@@ -18,7 +18,7 @@ const resumeData = {
     "Software and Cloud Developer | Graphic Designer \nResults-driven professional with expertise in Software and Web development, cloud computing, and automation. Proven track record of optimizing CRM workflows, and driving engagement growth through data-driven marketing strategies",
   skills: [
     "Frontend Development: React.js, Wordpress, Webflow, Framer, Git",
-    "Graphic Design: Canva, Figma, Miro, Adobe Suite",
+    "Graphic Design: Canva, Figma, Adobe Suite",
     "Customer Relationship Management: Zoho CRM, Excel/Google Sheets, Automation Tools (Zapier, Zoho CRM API)",
     "Digital Marketing: Meta Business Suite,Search Engine Optimization (SEO), Landing Page Optimization, Social Media Marketing, Email Campaigns & Newsletters (Mailchimp, Zoho Campaigns)",
     "Amazon Web Services: VPC, EC2, S3, RDS, Lambda, IAM, CloudWatch",
@@ -102,6 +102,10 @@ const resumeData = {
     {
       title: "Amazon Web Services (AWS) - Certified Cloud Practitioner",
       period: "2024",
+    },
+    {
+      title: "Amazon Web Services (AWS) - Solutions Architect",
+      period: "2025",
     },
   ],
 }
