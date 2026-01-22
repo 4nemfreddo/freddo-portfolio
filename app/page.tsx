@@ -39,6 +39,17 @@ const resumeData = {
         "Resolved 50+ IT issues, achieving 95% user satisfaction by ensuring seamless operations across website management, CRM functionality, and general IT support."
       ],
     },
+
+    {
+      company: "Mansa Media",
+      position: "Digital Media and Design Specialist",
+      period: "April 2025 – Present",
+
+      /*achievements: [
+        "Created visually compelling graphics and marketing materials using Canva and Adobe Suite, enhancing brand identity and engagement across digital platforms.",
+        "Managed and optimized social media campaigns, resulting in a 25% increase in follower engagement and a 15% growth in audience reach.",
+      ],*/  
+    }
     /*{
       company: "Juicyway Inc.",
       position: "Senior Product Engineer",
@@ -150,7 +161,7 @@ export default function Page() {
     if (output.length === 0) {
       addOutput(
         <TerminalOutput theme={themes[currentTheme]}>
-          Welcome to Freddo's interactive resume! Type 'help' for available commands.
+          Welcome to Freddie's interactive resume! Type 'help' for available commands.
         </TerminalOutput>,
       )
     }
